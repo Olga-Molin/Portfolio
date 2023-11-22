@@ -11,7 +11,8 @@
 + Swagger,
 + Trello,
 + SoapUI,
-+ Chrome DevTools
++ Chrome DevTools,
++ Miro
 + Markdown.
 
 # Проекты
