@@ -26,8 +26,7 @@
 
 ## Проект 2: Тестирование кабинета учителя в приложении Skyeng, «Тестирование API».
 > Задачи: дополнить тест-план, создать API-тест-кейсы, создать коллекцию в Postman, провести тест-ран, дополнить отчет о тестировании (на основе результатов тест-рана).
->> Ссылка на проект https://drive.google.com/file/d/1wavhcvGyq-iZu7b8WQSwSEW7Tth8nAzo/view?usp=drive_link
-
+>> Ссылка на проект https://docs.google.com/document/d/1EU-qrbLk8GTRUiX-RqxumHsc3yArmqAywHWe4ebjfv4/edit
 ## Проект 3: Финальное задание по SQL 
 > Задачи: Создание и наполнение таблиц, создание запросов SQL
 >> Ссылка на проект https://docs.google.com/document/d/1PoPe6Ox5-UNOV9GRJpjKd9YT1TG6R2akptTRFJF-VXQ/edit?usp=drive_link
