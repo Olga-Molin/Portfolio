@@ -12,8 +12,11 @@
 + Trello,
 + SoapUI,
 + Chrome DevTools,
-+ Miro
-+ Markdown.
++ Miro,
++ Sitechco,
++ Mockoon,
++ Markdown,
++ Zoom.
 
 # Проекты
 ## Проект 1: Протестировать веб-приложение для учителей от Skyeng, новый функционал «Личные события» во вкладке «Расписание»
