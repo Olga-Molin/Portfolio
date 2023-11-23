@@ -16,6 +16,7 @@
 + Sitechco,
 + Mockoon,
 + Markdown,
++ Google.doc,
 + Zoom.
 
 # Проекты
